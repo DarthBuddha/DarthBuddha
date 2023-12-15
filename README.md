@@ -2,7 +2,7 @@
 
 Send me a message Don't be shy.
 
-![Alt text](image/DB%20840x840.jpg "Darth Buddha")
+![Alt text](image/darth-buddha.png "Darth Buddha")
 
 <!--
 **DarthBuddha/DarthBuddha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
